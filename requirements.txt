@@ -2,4 +2,4 @@ pyTelegramBotAPI
 groq
 google-generativeai
 replicate
-
+huggingface_hub
