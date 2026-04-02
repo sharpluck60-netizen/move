@@ -1,5 +1,8 @@
-pyTelegramBotAPI
-groq
+pyTelegramBotAPI==4.15.4
+requests
+python-dotenv
 google-generativeai
 replicate
+flask
+groq
 huggingface_hub
